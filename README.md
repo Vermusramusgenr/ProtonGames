@@ -4,4 +4,4 @@ update 15.02.2022
 ------------------------------
 PeSmootherfor Siege of the Atlas - 3.17.1 H3 - Released, (Official + Steam + Garena + Tencent.!
 
-https://github.com/Protonteamgames/ProtonGames/blob/main/PqW4oV3.png
+![Иллюстрация к проекту] (https://github.com/Protonteamgames/ProtonGames/blob/main/PqW4oV3.png)
